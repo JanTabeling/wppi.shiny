@@ -5,7 +5,7 @@ This is a Shiny application for the [`wppi` package](https://github.com/AnaGalho
 
 To run the app locally, clone or download this repository, install the `shiny` package in R, and then run the following function:
 
-```{r eval=FALSE, include=TRUE}
+```R
 shiny::runApp("inst", launch.browser = TRUE)
 ```
 
