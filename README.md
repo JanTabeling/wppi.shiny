@@ -9,4 +9,4 @@ To run the app locally, clone or download this repository, install the `shiny` p
 shiny::runApp("inst", launch.browser = TRUE)
 ```
 
-For more information on this app and its features, see the [documentation](inst/www/doc.Rmd).
+For more information on this app and its features, see the [documentation](inst/www/doc.md).
