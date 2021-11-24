@@ -3,7 +3,7 @@ wppi Shiny application
 
 This is a Shiny application for the [`wppi` package](https://github.com/AnaGalhoz37/wppi).
 
-To run the app locally, clone or download this repository, install the `shiny`, `shinyBS`, `shinyFeedback` and `bsplus` packages in R, and then run the following function:
+To run the app locally, clone or download this repository, install the dependent packages in R from the [global folder](https://github.com/JanTabeling/wppi.shiny/blob/main/inst/global.R), and then run the following function:
 
 ```R
 shiny::runApp("inst", launch.browser = TRUE)
